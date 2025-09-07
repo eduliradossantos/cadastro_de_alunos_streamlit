@@ -70,8 +70,8 @@ Certifique-se de ter o Python 3.x instalado em seu sistema.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <https://github.com/eduliradossantos/cadastro_de_alunos_streamlit.git>
-cd <cadastro_de_alunos_stream>
+git clone https://github.com/eduliradossantos/cadastro_de_alunos_streamlit.git
+cd cadastro_de_alunos_stream
 ```
 
 ### 2. Criar e Ativar um Ambiente Virtual (Recomendado)
