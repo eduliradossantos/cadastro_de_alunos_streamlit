@@ -99,6 +99,7 @@ pandas
 numpy
 plotly
 requests
+hashlib
 ```
 
 ### 4. Executar a Aplicação Streamlit
