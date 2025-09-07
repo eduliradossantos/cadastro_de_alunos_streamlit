@@ -110,9 +110,6 @@ streamlit run app.py
 
 Após executar o comando, a aplicação será aberta automaticamente em seu navegador padrão. Se não abrir, copie e cole o URL fornecido no terminal (geralmente `http://localhost:8501`).
 
-### 5. Acesso ao aplicativo via Playground Streamlit
-
-Caso queira acessar via Playground Streamlit, basta acessar `https://eduardolira-cadastrodealunos.streamlit.app/`
 ## Uso do Sistema
 
 1.  **Login/Cadastro:** Ao iniciar a aplicação, você será direcionado para a tela de login. Você pode fazer login com um usuário existente ou cadastrar um novo usuário.
