@@ -4,7 +4,7 @@ Este repositório contém o trabalho de conclusão do Módulo 2 - Streamlit do p
 
 ## Sobre o Projeto
 
-O projeto COMPET Médio SophIA visa capacitar estudantes em tecnologias emergentes. Este módulo, focado em Streamlit, permitiu a criação de uma ferramenta prática para a gestão de dados de alunos, incluindo funcionalidades de login, cadastro, listagem, edição e exclusão de registros, além de um dashboard interativo para visualização de dados.
+O projeto COMPET Médio SophIA visa capacitar estudantes para criação de agente de IA com Streamlit e Langchein. Este módulo, focado em Streamlit, permitiu a criação de uma ferramenta prática para a gestão de dados de alunos, incluindo funcionalidades de login, cadastro, listagem, edição e exclusão de registros, além de um dashboard interativo para visualização de dados.
 
 ## Autor
 
