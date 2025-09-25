@@ -5,6 +5,7 @@ import modules.listar as listar
 import modules.editar as editar
 import modules.deletar as deletar
 import modules.home as home
+import modules.agenteia as agente
 import auth
 
 
@@ -54,7 +55,7 @@ else:
 
         escolha = option_menu(
             "Menu",
-            ["Home", "Adicionar", "Listar", "Editar", "Deletar"],
+            ["Home", "Adicionar", "Listar", "Editar", "Deletar", "Agente de IA"],
             icons=["house", "plus-circle", "list-task", "pencil", "trash"],
             menu_icon="cast",
             default_index=0
@@ -71,3 +72,5 @@ else:
         editar.run()
     elif escolha == "Deletar":
         deletar.run()
+    elif escolha == "Agente de IA":
+        agente.run()

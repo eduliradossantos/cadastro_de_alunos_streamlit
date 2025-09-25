@@ -12,7 +12,7 @@ DB_NAME = "alunos.db"
 def run():
     with st.container():
         st.title("📚 Sistema de Cadastro de Alunos")
-        st.header("Bem-vindo! Use o menu lateral para acessar as opções para adicionar, editar, listar e deletar.")
+        st.header("Bem-vindo! Use o menu lateral para acessar as opções para adicionar, editar, listar e deletar. Novidade: temos Agente de IA!")
         st.write("Caso queira ver a análise dos dados, clique no **Dashboard** abaixo.")
 
     with st.expander("Dashboard"):
