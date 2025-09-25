@@ -1,4 +1,3 @@
-import langchain
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain_groq import ChatGroq

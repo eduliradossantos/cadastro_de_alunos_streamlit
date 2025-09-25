@@ -13,10 +13,10 @@ def run():
     api_key = st.text_input("Digite sua chave da Groq", type="password")
 
 # Escolha do modelo
-    modelo = st.selectbox(
-         "Escolha o modelo",
-         ["all-mpnet-base-v2", "llama3-70b-8192", "xxxxxxxx"]
-    )
+   # modelo = st.selectbox(
+     #    "Escolha o modelo",
+       #  ["all-mpnet-base-v2", "llama3-70b-8192", "xxxxxxxx"]
+   # )
     uploaded_file = st.file_uploader(
             "Faça upload de um PDF ou Excel", type=["pdf", "xlsx", "xls", "csv"]
         )
@@ -61,3 +61,5 @@ def run():
         for speaker, msg in st.session_state.chat_history:
             with st.chat_message(speaker):
                 st.markdown(msg)
+
+run()
