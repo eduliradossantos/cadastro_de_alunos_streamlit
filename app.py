@@ -56,7 +56,7 @@ else:
         escolha = option_menu(
             "Menu",
             ["Home", "Adicionar", "Listar", "Editar", "Deletar", "Agente de IA"],
-            icons=["house", "plus-circle", "list-task", "pencil", "trash"],
+            icons=["house", "plus-circle", "list-task", "pencil", "trash", "robot"],
             menu_icon="cast",
             default_index=0
         )
